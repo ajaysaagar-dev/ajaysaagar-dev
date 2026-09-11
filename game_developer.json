@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "title": "AJAYSAAGAR | Game Developer, Technical Lead & Instructor",
+    "keywords": "AJAYSAAGAR, Game Developer, Technical Content Lead, Workshop Instructor, Unity 6, Unreal Engine 5, Red Moros Studios, Unknown 13, C#, C++, Python, SpeedTree, Blender, Next.js, Web Security",
+    "description": "Portfolio of AJAYSAAGAR — Lead Developer at Red Moros Studios, Game Development Instructor & Full-Stack Engineer specializing in Unity 6, Unreal Engine 5, SpeedTree, and modern web architectures.",
+    "favicon": "https://raw.githubusercontent.com/ajaysaagar-dev/ajaysaagar-dev/refs/heads/main/profile.jpg"
+  },
+  "hero": {
+    "name": "AJAYSAAGAR",
+    "subtitle": "I'm a Game Developer & Technical Lead.",
+    "ctaText": "Explore My Work",
+    "ctaLink": "#about"
+  },
+  "about": {
+    "title": "About me",
+    "image": "https://raw.githubusercontent.com/ajaysaagar-dev/ajaysaagar-dev/refs/heads/main/profile.jpg",
+    "imageAlt": "AJAYSAAGAR - Game Developer & Technical Lead",
+    "paragraphs": [
+      "I am a <span class=\"about-wrapper__info-text--important\">Game Developer</span>, <span class=\"about-wrapper__info-text--important\">Technical Instructor</span>, and <span class=\"about-wrapper__info-text--important\">Full-Stack Engineer</span>. Currently, I am the <strong>Lead Developer</strong> and <strong>Founder at Red Moros Studios</strong>, directing the production of <em>Unknown 13</em> — an original first-person psychological horror-thriller in Unity 6 preparing for showcase at <strong>IGDC 2026</strong>.",
+      "With hands-on expertise across <strong>Unity 6 (C#)</strong>, <strong>Unreal Engine 5 (Blueprints, Material Editor, Sequencer)</strong>, <strong>Blender</strong>, <strong>Substance Painter</strong>, and <strong>SpeedTree</strong>, I engineer gameplay systems, procedural vegetation, and cinematic lighting pipelines. Alongside game production, I conduct structured game development workshops from engine fundamentals to advanced architecture.",
+      "My engineering background also includes building scalable Next.js applications at <strong>Alphaes AI</strong>, designing multi-tenant fleet-tracking schemas at <strong>Veerana R&D Innovations</strong>, and authoring remediation guides as a <strong>Web App Security Analyst</strong> at TASC."
+    ],
+    "resumeUrl": "https://raw.githubusercontent.com/ajaysaagar-dev/ajaysaagar-dev/main/gamedeveloper_resume.pdf",
+    "resumeButtonText": "View Resume"
+  },
+  "projects": [
+    {
+      "id": "unknown-13",
+      "tag": "Unity 6 · Horror",
+      "title": "Unknown 13 — Red Moros Studios",
+      "desc": "Lead Developer on <em>Unknown 13</em>, an original first-person psychological horror-thriller in Unity 6. Architecting core gameplay systems, project structuring, atmospheric environment design, and immersive spatial soundscapes heading to <strong>IGDC 2026</strong>.",
+      "tech": "Unity 6 · C# · Gameplay Systems · Level Design · Sound Design · IGDC 2026",
+      "videoId": "vlpo3ryEiwM",
+      "sourceCodeUrl": "https://github.com/ajaysaagar-dev"
+    },
+    {
+      "id": "tps-shooter",
+      "tag": "Unreal Engine 5",
+      "title": "ThirdPerson-Shooter-System (UE5)",
+      "desc": "Comprehensive, modular third-person shooter mechanics system engineered in Unreal Engine 5. Implements responsive character locomotion state machines, dynamic weapon inventory and recoil handling, aiming offsets, and clean gameplay ability architecture.",
+      "tech": "Unreal Engine 5 · Blueprints · Gameplay Architecture · Animation Blueprints",
+      "videoId": "vlpo3ryEiwM",
+      "sourceCodeUrl": "https://github.com/ajaysaagar-dev"
+    },
+    {
+      "id": "vegetation-ue5",
+      "tag": "SpeedTree · UE5",
+      "title": "Vegetation System (UE5)",
+      "desc": "Procedural vegetation system for Unreal Engine 5 environments crafted with SpeedTree. Emphasizes realistic wind vertex animations, hierarchical LOD mesh culling, volumetric lighting integration, and optimized PBR shader performance across expansive landscapes.",
+      "tech": "SpeedTree · Unreal Engine 5 · PBR Materials · Procedural Foliage · Shaders",
+      "videoId": "wDTEHVLKmqI",
+      "sourceCodeUrl": "https://github.com/ajaysaagar-dev"
+    },
+    {
+      "id": "game-lighting",
+      "tag": "Unity 3D · Lighting",
+      "title": "Game-Lighting (Unity 3D)",
+      "desc": "Real-time lighting design and mood-building for game environments in Unity 3D. Features advanced baked lightmaps, real-time indirect illumination, post-processing volume profiles, color grading, and volumetric fog tailored for cinematic suspense.",
+      "tech": "Unity 3D · Real-Time Lighting · Post-Processing · Mood Design · Level Art",
+      "videoId": "UokZxoMOBgM",
+      "sourceCodeUrl": "https://github.com/ajaysaagar-dev"
+    },
+    {
+      "id": "virtual-controller",
+      "tag": "Computer Vision · Motion",
+      "title": "Virtual-Controller-UE5-Unity6",
+      "desc": "Real-time facial- and hand-motion gameplay controller powered by webcam computer vision motion tracking. Seamlessly captures player gestures and facial telemetry, translating them into responsive in-game character actions in Unreal Engine 5 and Unity 6.",
+      "tech": "Unreal Engine 5 · Unity 6 · Motion Tracking · Computer Vision · C# · Python",
+      "videoId": "vlpo3ryEiwM",
+      "sourceCodeUrl": "https://github.com/ajaysaagar-dev/Virtual-Controller-UE5-Unity6"
+    },
+    {
+      "id": "alphaes-iot",
+      "tag": "Next.js · IoT · Cloud",
+      "title": "Alphaes AI & Fleet-Tracking Platform",
+      "desc": "Production-scale software engineering: architected full-stack features on a Next.js project management platform for Alphaes AI, and designed high-throughput multi-tenant database schemas and telemetry ingestion for Veerana R&D Innovations' fleet-tracking system.",
+      "tech": "Next.js · TypeScript · IoT Engineering · Database Design · PostgreSQL",
+      "videoId": "wDTEHVLKmqI",
+      "sourceCodeUrl": "https://github.com/ajaysaagar-dev"
+    }
+  ],
+  "contact": {
+    "title": "Contact",
+    "text": "Interested in collaborating on a game development project, full-stack architecture, or security engineering? Let's connect and build something extraordinary!",
+    "ctaText": "Get in Touch",
+    "email": "mailto:ajaysaagar.dev@gmail.com"
+  },
+  "footer": {
+    "copyright": "© 2026 AJAYSAAGAR. All rights reserved.",
+    "social": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/ajaysaagar",
+        "icon": "fa-linkedin"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/ajaysaagar-dev",
+        "icon": "fa-github"
+      },
+      {
+        "name": "Email",
+        "url": "mailto:ajaysaagar.dev@gmail.com",
+        "icon": "fa-envelope"
+      }
+    ]
+  }
+}
