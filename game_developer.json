@@ -6,7 +6,7 @@
     "favicon": "https://raw.githubusercontent.com/ajaysaagar-dev/ajaysaagar-dev/refs/heads/main/profile.jpg"
   },
   "hero": {
-    "name": "AJAYSAAGAR",
+    "name": "AJAYSAAGA",
     "subtitle": "I'm a Game Developer & Technical Lead.",
     "ctaText": "Explore My Work",
     "ctaLink": "#about"
@@ -14,7 +14,7 @@
   "about": {
     "title": "About me",
     "image": "https://raw.githubusercontent.com/ajaysaagar-dev/ajaysaagar-dev/refs/heads/main/profile.jpg",
-    "imageAlt": "AJAYSAAGAR - Game Developer & Technical Lead",
+    "imageAlt": "AJAYSAAGA - Game Developer",
     "paragraphs": [
       "I am a <span class=\"about-wrapper__info-text--important\">Game Developer</span>, <span class=\"about-wrapper__info-text--important\">Technical Instructor</span>, and <span class=\"about-wrapper__info-text--important\">Full-Stack Engineer</span>. Currently, I am the <strong>Lead Developer</strong> and <strong>Founder at Red Moros Studios</strong>, directing the production of <em>Unknown 13</em> — an original first-person psychological horror-thriller in Unity 6 preparing for showcase at <strong>IGDC 2026</strong>.",
       "With hands-on expertise across <strong>Unity 6 (C#)</strong>, <strong>Unreal Engine 5 (Blueprints, Material Editor, Sequencer)</strong>, <strong>Blender</strong>, <strong>Substance Painter</strong>, and <strong>SpeedTree</strong>, I engineer gameplay systems, procedural vegetation, and cinematic lighting pipelines. Alongside game production, I conduct structured game development workshops from engine fundamentals to advanced architecture.",
@@ -25,65 +25,65 @@
   },
   "projects": [
     {
-      "id": "unknown-13",
-      "tag": "Unity 6 · Horror",
+      "id": "project-1",
       "title": "Unknown 13 — Red Moros Studios",
+      "tag": "Unity 6 · Horror",
+      "videoId": "vlpo3ryEiwM",
+      "sourceCodeUrl": "https://github.com/ajaysaagar-dev",
       "desc": "Lead Developer on <em>Unknown 13</em>, an original first-person psychological horror-thriller in Unity 6. Architecting core gameplay systems, project structuring, atmospheric environment design, and immersive spatial soundscapes heading to <strong>IGDC 2026</strong>.",
-      "tech": "Unity 6 · C# · Gameplay Systems · Level Design · Sound Design · IGDC 2026",
-      "videoId": "vlpo3ryEiwM",
-      "sourceCodeUrl": "https://github.com/ajaysaagar-dev"
+      "tech": "Unity 6 · C# · Gameplay Systems · Level Design · Sound Design · IGDC 2026"
     },
     {
-      "id": "tps-shooter",
-      "tag": "Unreal Engine 5",
+      "id": "project-2",
       "title": "ThirdPerson-Shooter-System (UE5)",
+      "tag": "Unreal Engine 5",
+      "videoId": "vlpo3ryEiwM",
+      "sourceCodeUrl": "https://github.com/ajaysaagar-dev",
       "desc": "Comprehensive, modular third-person shooter mechanics system engineered in Unreal Engine 5. Implements responsive character locomotion state machines, dynamic weapon inventory and recoil handling, aiming offsets, and clean gameplay ability architecture.",
-      "tech": "Unreal Engine 5 · Blueprints · Gameplay Architecture · Animation Blueprints",
-      "videoId": "vlpo3ryEiwM",
-      "sourceCodeUrl": "https://github.com/ajaysaagar-dev"
+      "tech": "Unreal Engine 5 · Blueprints · Gameplay Architecture · Animation Blueprints"
     },
     {
-      "id": "vegetation-ue5",
-      "tag": "SpeedTree · UE5",
+      "id": "project-3",
       "title": "Vegetation System (UE5)",
+      "tag": "SpeedTree · UE5",
+      "videoId": "wDTEHVLKmqI",
+      "sourceCodeUrl": "https://github.com/ajaysaagar-dev",
       "desc": "Procedural vegetation system for Unreal Engine 5 environments crafted with SpeedTree. Emphasizes realistic wind vertex animations, hierarchical LOD mesh culling, volumetric lighting integration, and optimized PBR shader performance across expansive landscapes.",
-      "tech": "SpeedTree · Unreal Engine 5 · PBR Materials · Procedural Foliage · Shaders",
-      "videoId": "wDTEHVLKmqI",
-      "sourceCodeUrl": "https://github.com/ajaysaagar-dev"
+      "tech": "SpeedTree · Unreal Engine 5 · PBR Materials · Procedural Foliage · Shaders"
     },
     {
-      "id": "game-lighting",
-      "tag": "Unity 3D · Lighting",
+      "id": "project-4",
       "title": "Game-Lighting (Unity 3D)",
-      "desc": "Real-time lighting design and mood-building for game environments in Unity 3D. Features advanced baked lightmaps, real-time indirect illumination, post-processing volume profiles, color grading, and volumetric fog tailored for cinematic suspense.",
-      "tech": "Unity 3D · Real-Time Lighting · Post-Processing · Mood Design · Level Art",
+      "tag": "Unity 3D · Lighting",
       "videoId": "UokZxoMOBgM",
-      "sourceCodeUrl": "https://github.com/ajaysaagar-dev"
+      "sourceCodeUrl": "https://github.com/ajaysaagar-dev",
+      "desc": "Real-time lighting design and mood-building for game environments in Unity 3D. Features advanced baked lightmaps, real-time indirect illumination, post-processing volume profiles, color grading, and volumetric fog tailored for cinematic suspense.",
+      "tech": "Unity 3D · Real-Time Lighting · Post-Processing · Mood Design · Level Art"
     },
     {
-      "id": "virtual-controller",
-      "tag": "Computer Vision · Motion",
+      "id": "project-5",
       "title": "Virtual-Controller-UE5-Unity6",
-      "desc": "Real-time facial- and hand-motion gameplay controller powered by webcam computer vision motion tracking. Seamlessly captures player gestures and facial telemetry, translating them into responsive in-game character actions in Unreal Engine 5 and Unity 6.",
-      "tech": "Unreal Engine 5 · Unity 6 · Motion Tracking · Computer Vision · C# · Python",
+      "tag": "Computer Vision · Motion",
       "videoId": "vlpo3ryEiwM",
-      "sourceCodeUrl": "https://github.com/ajaysaagar-dev/Virtual-Controller-UE5-Unity6"
+      "sourceCodeUrl": "https://github.com/ajaysaagar-dev/Virtual-Controller-UE5-Unity6",
+      "desc": "Real-time facial- and hand-motion gameplay controller powered by webcam computer vision motion tracking. Seamlessly captures player gestures and facial telemetry, translating them into responsive in-game character actions in Unreal Engine 5 and Unity 6.",
+      "tech": "Unreal Engine 5 · Unity 6 · Motion Tracking · Computer Vision · C# · Python"
     },
     {
-      "id": "alphaes-iot",
-      "tag": "Next.js · IoT · Cloud",
+      "id": "project-6",
       "title": "Alphaes AI & Fleet-Tracking Platform",
-      "desc": "Production-scale software engineering: architected full-stack features on a Next.js project management platform for Alphaes AI, and designed high-throughput multi-tenant database schemas and telemetry ingestion for Veerana R&D Innovations' fleet-tracking system.",
-      "tech": "Next.js · TypeScript · IoT Engineering · Database Design · PostgreSQL",
+      "tag": "Next.js · IoT · Cloud",
       "videoId": "wDTEHVLKmqI",
-      "sourceCodeUrl": "https://github.com/ajaysaagar-dev"
+      "sourceCodeUrl": "https://github.com/ajaysaagar-dev",
+      "desc": "Production-scale software engineering: architected full-stack features on a Next.js project management platform for Alphaes AI, and designed high-throughput multi-tenant database schemas and telemetry ingestion for Veerana R&D Innovations' fleet-tracking system.",
+      "tech": "Next.js · TypeScript · IoT Engineering · Database Design · PostgreSQL"
     }
   ],
   "contact": {
     "title": "Contact",
+    "email": "mailto:ajaysaagar.dev@gmail.com",
     "text": "Interested in collaborating on a game development project, full-stack architecture, or security engineering? Let's connect and build something extraordinary!",
-    "ctaText": "Get in Touch",
-    "email": "mailto:ajaysaagar.dev@gmail.com"
+    "ctaText": "Get in Touch"
   },
   "footer": {
     "copyright": "© 2026 AJAYSAAGAR. All rights reserved.",
