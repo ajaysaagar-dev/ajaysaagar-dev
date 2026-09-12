@@ -6,7 +6,7 @@
     "favicon": "https://raw.githubusercontent.com/ajaysaagar-dev/ajaysaagar-dev/refs/heads/main/profile.jpg"
   },
   "hero": {
-    "name": "AJAYSAAGA",
+    "name": "AJAYSAAGAR",
     "subtitle": "I'm a Game Developer & Technical Lead.",
     "ctaText": "Explore My Work",
     "ctaLink": "#about"
@@ -14,7 +14,7 @@
   "about": {
     "title": "About me",
     "image": "https://raw.githubusercontent.com/ajaysaagar-dev/ajaysaagar-dev/refs/heads/main/profile.jpg",
-    "imageAlt": "AJAYSAAGA - Game Developer",
+    "imageAlt": "AJAYSAAGAR - Game Developer",
     "paragraphs": [
       "I am a <span class=\"about-wrapper__info-text--important\">Game Developer</span>, <span class=\"about-wrapper__info-text--important\">Technical Instructor</span>, and <span class=\"about-wrapper__info-text--important\">Full-Stack Engineer</span>. Currently, I am the <strong>Lead Developer</strong> and <strong>Founder at Red Moros Studios</strong>, directing the production of <em>Unknown 13</em> — an original first-person psychological horror-thriller in Unity 6 preparing for showcase at <strong>IGDC 2026</strong>.",
       "With hands-on expertise across <strong>Unity 6 (C#)</strong>, <strong>Unreal Engine 5 (Blueprints, Material Editor, Sequencer)</strong>, <strong>Blender</strong>, <strong>Substance Painter</strong>, and <strong>SpeedTree</strong>, I engineer gameplay systems, procedural vegetation, and cinematic lighting pipelines. Alongside game production, I conduct structured game development workshops from engine fundamentals to advanced architecture.",
